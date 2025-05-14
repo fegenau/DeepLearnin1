@@ -65,7 +65,7 @@ Cada imagen tiene dimensiones de 28x28 píxeles y pertenece a una de las siguien
    
 ## 👨‍🏫 Autor
 
--Nombre: Francisco Egenau
+-Nombre: Francisco Egenau - Sebastián Medina - Matias Machuca 
 
 -Institución: Duoc UC
 
